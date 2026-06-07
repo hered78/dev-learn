@@ -1,6 +1,3 @@
 Mango
 banana
 Apple
-orange
-grape
-pineapple
